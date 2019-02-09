@@ -1,1 +1,1 @@
-# SMS with URL api of Free
+# Send SMS with the API of Free
